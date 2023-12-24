@@ -4,7 +4,7 @@ export function Profile() {
   return (
     <div className="flex items-center gap-3">
       <img
-        src="https://github.com/allancoder.png"
+        src="https://github.com/allanmgoncalves.png"
         alt=""
         className="h-10 w-10 rounded-full"
       />
