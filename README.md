@@ -1,1 +1,1 @@
-#Study about Tailwind CSS
+#Study about Tailwind
